@@ -8,7 +8,7 @@ import Navbar from "./components/Navbar";
 import About from "./components/About";
 import Home from "./components/Home";
 import Projects from "./components/Projects";
-import Speaking from "./components/Speaking";
+import Blogs from "./components/Blogs";
 import Tools from "./components/Tools";
 import Articles from "./components/Articles";
 
@@ -25,7 +25,7 @@ function App() {
         <Route path="/about" element={<About />} />
         <Route path="/projects" element={<Projects />} />
         <Route path="/articles" element={<Articles />} />
-        <Route path="/speaking" element={<Speaking />} />
+        <Route path="/blogs" element={<Blogs />} />
         <Route path="/tools" element={<Tools />} />
         <Route path="*" element={<Navigate to="/" />} />
       </Routes>

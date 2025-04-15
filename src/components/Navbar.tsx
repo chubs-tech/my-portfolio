@@ -97,7 +97,7 @@ const Navbar: React.FC<NavbarProps> = ({ onNavigate }) => {
                           </li>
                           <li>
                             <NavLink
-                              to="/speaking"
+                              to="/blogs"
                               className={({ isActive }) =>
                                 `relative block px-3 py-2 transition ${
                                   isActive
@@ -105,9 +105,9 @@ const Navbar: React.FC<NavbarProps> = ({ onNavigate }) => {
                                     : "hover:text-teal-500 dark:hover:text-teal-400"
                                 }`
                               }
-                              onClick={() => onNavigate("speaking")}
+                              onClick={() => onNavigate("blogs")}
                             >
-                              Speaking
+                              Blogs
                             </NavLink>
                           </li>
                           <li>

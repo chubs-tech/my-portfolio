@@ -20,36 +20,39 @@ const About: React.FC = () => {
                 </div>
                 <div className="lg:order-first lg:row-span-2">
                   <h1 className="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">
-                    I’m Rey Chabby Estrera. I live in Quezon City, where I
-                    design the future.
+                    I’m Rey Chabby Estrera. I live in Quezon City, where I craft
+                    digital solutions.
                   </h1>
                   <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Quo maiores cum id provident ab deleniti distinctio eos
-                      ipsa et. Hic laboriosam officiis omnis perferendis maxime
-                      unde placeat qui repellendus. Ab.
+                      I’ve always had a deep curiosity for how things work,
+                      especially in the digital world. My journey into
+                      development started with simple curiosity and quickly grew
+                      into a passion for building intuitive, functional, and
+                      beautiful user experiences.
                     </p>
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Quo maiores cum id provident ab deleniti distinctio eos
-                      ipsa et. Hic laboriosam officiis omnis perferendis maxime
-                      unde placeat qui repellendus. Ab.
+                      As a Programmer, I focus on writing clean, efficient code
+                      and enjoy solving complex problems with creative
+                      solutions. Whether it's a website, a system, or a feature
+                      that helps users navigate smoothly, I'm all about
+                      delivering value through code.
                     </p>
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Quo maiores cum id provident ab deleniti distinctio eos
-                      ipsa et. Hic laboriosam officiis omnis perferendis maxime
-                      unde placeat qui repellendus. Ab.
+                      When I'm not coding, I'm often exploring new tech stacks,
+                      learning design systems, or working on side projects that
+                      push my skills further. I'm always open to collaboration
+                      and love working with people who are as excited about tech
+                      as I am.
                     </p>
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Quo maiores cum id provident ab deleniti distinctio eos
-                      ipsa et. Hic laboriosam officiis omnis perferendis maxime
-                      unde placeat qui repellendus. Ab.
+                      My mission is to keep growing — not just as a developer,
+                      but as a creator who can make an impact in the digital
+                      space. Let’s build something awesome.
                     </p>
                   </div>
                 </div>
+
                 <div className="lg:pl-20">
                   <ul role="list">
                     <li className="flex">

@@ -96,10 +96,11 @@ const Home: React.FC = () => {
                   <article className="group relative flex flex-col items-start">
                     <h2 className="text-base font-semibold tracking-tight text-zinc-800 dark:text-zinc-100">
                       <div className="absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-50 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 sm:-inset-x-6 sm:rounded-2xl dark:bg-zinc-800/50"></div>
-                      <a href="/articles/crafting-a-design-system-for-a-multiplanetary-future">
+                      <a href="https://ncda.gov.ph/2016/11/25/ph-youth-with-disabilities-bag-medals-in-2016-global-it-challenge/">
                         <span className="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>
                         <span className="relative z-10">
-                          Crafting a design system for a multiplanetary future
+                          PH Youth with Disabilities Bag Medals in 2016 Global
+                          IT Challenge
                         </span>
                       </a>
                     </h2>
@@ -113,14 +114,15 @@ const Home: React.FC = () => {
                       >
                         <span className="h-4 w-0.5 rounded-full bg-zinc-200 dark:bg-zinc-500"></span>
                       </span>
-                      September 5, 2022
+                      November 21-25, 2016
                     </time>
                     <p className="relative z-10 mt-2 text-sm text-zinc-600 dark:text-zinc-400">
-                      Most companies try to stay ahead of the curve when it
-                      comes to visual design, but for Planetaria we needed to
-                      create a brand that would still inspire us 100 years from
-                      now when humanity has spread across our entire solar
-                      system.
+                      Filipino youth with disabilities made a breakthrough and
+                      impressive record during the 2016 Global IT Challenge
+                      (GITC) for Youth with Disabilities by bagging several
+                      medals in their respective event categories. The event
+                      participated in by 16 countries was held in Yangzhou,
+                      Jiangsu, China on November 21-25, 2016.
                     </p>
                     <div
                       aria-hidden="true"
@@ -142,7 +144,7 @@ const Home: React.FC = () => {
                       </svg>
                     </div>
                   </article>
-                  <article className="group relative flex flex-col items-start">
+                  {/* <article className="group relative flex flex-col items-start">
                     <h2 className="text-base font-semibold tracking-tight text-zinc-800 dark:text-zinc-100">
                       <div className="absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-50 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 sm:-inset-x-6 sm:rounded-2xl dark:bg-zinc-800/50"></div>
                       <a href="/articles/introducing-animaginary">
@@ -190,7 +192,7 @@ const Home: React.FC = () => {
                         ></path>
                       </svg>
                     </div>
-                  </article>
+                  </article> */}
                 </div>
                 <div className="space-y-10 lg:pl-16 xl:pl-24">
                   {/* <form
